@@ -54,20 +54,3 @@ The project includes various visualizations to interpret the data:
 * **Distribution Plots:** To inspect data spread and normality.
 * **Boxplots:** To visualize group differences and outliers.
 * **Correlation Heatmaps:** To display relationships between clinical variables.
-
-## 🚀 How to Use
-Since the data is private, you can use this code as a template for similar medical data analysis tasks.
-
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/YourUsername/Medical-Data-Analysis.git](https://github.com/YourUsername/Medical-Data-Analysis.git)
-    ```
-2.  Install dependencies:
-    ```bash
-    pip install pandas numpy scipy matplotlib seaborn scikit-learn scikit-posthocs
-    ```
-3.  Load your own dataset (ensure it matches the column structure expected in the notebook).
-4.  Run the Jupyter Notebook:
-    ```bash
-    jupyter notebook "Medical Data Analysis Project.ipynb"
-    ```
